@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=7C9EFF&center=true&vCenter=true&width=580&lines=Full+Stack+Developer;Python+%2B+FastAPI;React+%2B+TypeScript;Sistemas+em+produ%C3%A7%C3%A3o+real" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=7C9EFF&center=true&vCenter=true&width=580&lines=Frontend+Developer;React+%2B+TypeScript;Viv%C3%AAncia+full+stack;Interfaces+em+produ%C3%A7%C3%A3o+real" alt="Typing SVG" />
 
-### Do problema de negócio ao sistema em produção
+### Interfaces que funcionam de verdade
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-jordansouzadev.github.io-7c9eff?style=for-the-badge&logo=vercel&logoColor=white)](https://jordansouzadev.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jordan--souza19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-souza19)
@@ -12,10 +12,10 @@
 
 <br>
 
-Projeto e construo sistemas full stack que resolvem problemas reais de negócio — com arquitetura pensada para durar, não só para funcionar na demo. Trabalho no ciclo completo: modelagem de dados, API, autenticação, painel administrativo e a interface que o usuário final usa.
+Construo interfaces em React/TypeScript para sistemas reais em produção, com atenção a experiência de uso, performance e consistência visual. Tenho vivência full stack (Python/FastAPI), o que ajuda a entender o sistema inteiro — não só a tela — mesmo focando no frontend.
 
-- 🔭 &nbsp;Construindo sistemas full stack em produção — agendamento online e SaaS de gestão
-- 🧱 &nbsp;Backend-first: regras críticas (disponibilidade, permissões, dados sensíveis) validadas no servidor
+- 🎨 &nbsp;Construindo interfaces em React/TypeScript para sistemas em produção — agendamento online e SaaS de gestão
+- 🧱 &nbsp;Entendo o que pedir (ou não pedir) do backend: regras críticas sempre validadas no servidor
 - ✅ &nbsp;Testes automatizados e documentação fazem parte da definição de "pronto"
 - 🐳 &nbsp;Deploy real: Docker, migrations versionadas, variáveis de ambiente configuradas
 - 🌐 &nbsp;Portfólio completo em **[jordansouzadev.github.io](https://jordansouzadev.github.io)**
@@ -26,12 +26,12 @@ Projeto e construo sistemas full stack que resolvem problemas reais de negócio 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
